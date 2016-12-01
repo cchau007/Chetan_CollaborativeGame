@@ -1,0 +1,68 @@
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\Alain\Desktop\Senior project\FIU-Senior_Project-TAM-ShardPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+Z:\FIU-Senior-Project-TAM\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\Alain\Desktop\FIU-Senior-Project-TAM\HoloLens-Paint-master-\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\Alain\Desktop\HoloLens-Paint\FIU-Senior_Project-TAM-SharedPuzzle\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
